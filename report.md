@@ -2,8 +2,6 @@
 
 # How has Brexit impacted citizens and immigrants?
 
-Help for markdown: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-
 ## Non-technical Executive Summary
 
 ### Introduction
