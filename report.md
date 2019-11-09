@@ -32,7 +32,7 @@ The most illuminating trend was that of European immigration numbers. Surprising
 |:--:|
 | *Figure 2: Immigration numbers for various continents* |
 
-The  still scope for investigation down this path, as we have not yet considered earnings on an industry-specific basis.
+The above heatmap depicts the correlation matrix amongst immigration numbers. There is a negative correlation of the European immigration rates with the rest of the world, indicating that there is much scope for investigation down this path.
 
 #### Which nationalities were affected the most?
 |![alt text](https://github.com/hivestrung/citadel-datathon/blob/master/Graphs/chloropleth%20of%20europe.png?raw=true "yourbrain")|
