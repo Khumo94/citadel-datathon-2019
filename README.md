@@ -1,6 +1,6 @@
 # Team 26 Report
 
-Note: This was the report we submitted for Citadel Datathon 2019. The [problem statement]("./London Datathon Problem Statement.pdf") is here.
+Note: This was the report we submitted for Citadel Datathon 2019. Here are the [problem statement](/Instructions/London&#32;Datathon&#32;Problem&#32;Statement.pdf) and [dataset schema](/Instructions/London&#32;Datathon&#32;Data&#32;Schema.pdf) for the challenge.
 
 # How has Brexit impacted citizens and immigrants?
 
