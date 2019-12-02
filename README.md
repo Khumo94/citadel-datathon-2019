@@ -101,20 +101,20 @@ For further analysis, it also would be useful to analyse how Brexit has impacted
 
 ### Wrangling and Cleaning Process
 
-• one-hot encoding of gender and nationalities
-• Only considered data where all entries of interest were filled, sufficient quantity of
-complete information to justify this.
-• Reformat data so it was on the same timescale.
-Investigative Depth
-• Looked into PCA components
-• Concenated tables and data to give sufficient datapoints so that analysis could be done individually.
-• Data was investigated in its relation to subgroup characteristics. Coloured europe map easy to interpret
-• Weighted averaging of employment data across time to account for differences prior to and after Brexit
-• Using plots to investigate factors and using statistical tests to distinguish between valuable and invaluable relationships to further investigate.
+• one-hot encoding of gender and nationalities  
+• Only considered data where all entries of interest were filled, sufficient quantity of  
+complete information to justify this.  
+• Reformat data so it was on the same timescale.  
+• Looked into PCA components  
+• Concenated tables and data to give sufficient datapoints so that analysis could be done individually.  
 
 ### Investigative Depth
 
-We utilised a variant of k-means clustering, called k-prototypes, to detect the most important subgroups for our investigation. K-prototypes enables us to identify important subgroups that faced the greatest impact after Brexit.
+• We utilised a variant of k-means clustering, called k-prototypes, to detect the most important subgroups for our investigation.  
+• K-prototypes enables us to identify important subgroups that faced the greatest impact after Brexit.  
+• Weighted averaging of employment data across time to account for differences prior to and after Brexit  
+• Using plots to investigate factors and using statistical tests to distinguish between valuable and invaluable relationships to further investigate. 
+• Data was investigated in its relation to subgroup characteristics. Coloured europe map easy to interpret.
 
 ### Analytical and Modelling Rigor
 • Applied a linear regression model for relationships for testing for effects although noting that the relationships are not likely to be linear
