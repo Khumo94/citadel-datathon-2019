@@ -1,5 +1,7 @@
 # Team 26 Report
 
+Note: This was the report we submitted for Citadel Datathon 2019.
+
 # How has Brexit impacted citizens and immigrants?
 
 ## Non-technical Executive Summary
