@@ -113,7 +113,7 @@ complete information to justify this.
 • We utilised a variant of k-means clustering, called k-prototypes, to detect the most important subgroups for our investigation.  
 • K-prototypes enables us to identify important subgroups that faced the greatest impact after Brexit.  
 • Weighted averaging of employment data across time to account for differences prior to and after Brexit  
-• Using plots to investigate factors and using statistical tests to distinguish between valuable and invaluable relationships to further investigate. 
+• Using plots to investigate factors and using statistical tests to distinguish between valuable and invaluable relationships to further investigate.  
 • Data was investigated in its relation to subgroup characteristics. Coloured europe map easy to interpret.
 
 ### Analytical and Modelling Rigor
